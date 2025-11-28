@@ -1,0 +1,2 @@
+# Customer_-behavior_analysis
+data analytics project showcasing customer behavior analysis using Python, SQL and Power Bi.
