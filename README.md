@@ -109,8 +109,7 @@ Seasonal trends identified in sales volume
 
 ▶️ How to Run This Project
 1. Clone the Repository
-git clone https://github.com/username/repo-name.git
-cd repo-name
+git clone https://github.com/Reethiya2002/Customer_-behavior_analysis.git
 
 2. Install Python Dependencies
 pip install -r requirements.txt
